@@ -1,0 +1,84 @@
+C:\Users\Mohit\Desktop\apicrud\apicrud\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mohit\Desktop\apicrud\apicrud\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mohit\Desktop\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.exe
+C:\Users\Mohit\Desktop\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.deps.json
+C:\Users\Mohit\Desktop\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.runtimeconfig.json
+C:\Users\Mohit\Desktop\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.runtimeconfig.dev.json
+C:\Users\Mohit\Desktop\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.dll
+C:\Users\Mohit\Desktop\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.pdb
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.csproj.AssemblyReference.cache
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.AssemblyInfoInputs.cache
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.AssemblyInfo.cs
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.csproj.CoreCompileInputs.cache
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\staticwebassets\apicrud.StaticWebAssets.Manifest.cache
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\staticwebassets\apicrud.StaticWebAssets.xml
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\scopedcss\bundle\apicrud.styles.css
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.RazorTargetAssemblyInfo.cache
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.dll
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.pdb
+C:\Users\Mohit\Desktop\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.genruntimeconfig.cache
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\appsettings.json
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.exe
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.deps.json
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.runtimeconfig.json
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.runtimeconfig.dev.json
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\apicrud.pdb
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dot net\apicrud\apicrud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.csproj.AssemblyReference.cache
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.AssemblyInfoInputs.cache
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.AssemblyInfo.cs
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.csproj.CoreCompileInputs.cache
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.MvcApplicationPartsAssemblyInfo.cache
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\staticwebassets\apicrud.StaticWebAssets.Manifest.cache
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\staticwebassets\apicrud.StaticWebAssets.xml
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\scopedcss\bundle\apicrud.styles.css
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.RazorTargetAssemblyInfo.cache
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.dll
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.pdb
+D:\dot net\apicrud\apicrud\obj\Debug\netcoreapp3.1\apicrud.genruntimeconfig.cache
